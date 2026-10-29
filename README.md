@@ -1,2 +1,3 @@
-# DevINFO-Android
-Most apps do everything, but they cost 100MB. We only do one thing, and it costs 257KB." （大部分 App 什么都做，代价是几百 MB；我们只做一件事，代价是 257 KB
+Most apps ship a 100MB Chromium webview just to show a few text labels. We packed a full hardware inspector, real-time sensor graphs, and a system toolbox into 263 KB — pure Canvas, zero dependencies, and it still runs on Android 4.0
+联系我:
+3805415327@qq.com
